@@ -1,0 +1,5 @@
+org\example\gtrg\sparksplugin\SparksPlugin.class
+org\example\gtrg\sparksplugin\utilites\placeholder_api_worker.class
+org\example\gtrg\sparksplugin\utilites\commands.class
+org\example\gtrg\sparksplugin\utilites\translator.class
+org\example\gtrg\sparksplugin\Events.class
